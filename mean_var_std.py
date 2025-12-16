@@ -1,7 +1,6 @@
 import numpy as np
 
 def calculation(list):
-
     
     matrix = np.array(list).reshape(3 ,3)
     
